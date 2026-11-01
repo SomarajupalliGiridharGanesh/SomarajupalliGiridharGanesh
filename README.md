@@ -1,16 +1,32 @@
-## Hi there 👋
+# Ganesh Somarajupalli
 
-<!--
-**SomarajupalliGiridharGanesh/SomarajupalliGiridharGanesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B.Tech Artificial Intelligence & Machine Learning Student**
 
-Here are some ideas to get you started:
+I'm an undergraduate student interested in Artificial Intelligence, Machine Learning, and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm focused on strengthening my programming fundamentals, understanding core computer science concepts, and building practical projects. I believe in learning by building and improving through consistent practice.
+
+### Areas of Interest
+
+* Artificial Intelligence & Machine Learning
+* Data Structures and Algorithms
+* Software Development
+* Problem Solving
+
+### Technologies
+
+**Languages:** Python, Java, C
+
+**Tools:** Git, GitHub, VS Code, Jupyter Notebook
+
+**Currently Learning:** Machine Learning, Data Structures and Algorithms, Web Development
+
+### Projects
+
+I use this space to document my learning, experiment with technologies, and build projects.
+
+More projects and experiments will be added as I progress.
+
+---
+
+*Learning continuously. Building thoughtfully.*
