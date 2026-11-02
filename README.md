@@ -1,4 +1,4 @@
-# Ganesh Somarajupalli
+# Somarajupalli. Giridhar Ganesh
 
 **B.Tech Artificial Intelligence & Machine Learning Student**
 
@@ -17,7 +17,7 @@ Currently, I'm focused on strengthening my programming fundamentals, understandi
 
 **Languages:** Python, Java, C
 
-**Tools:** Git, GitHub, VS Code, Jupyter Notebook
+**Tools:** Git, GitHub, VS Code, Jupyter Notebook,pycharm,ecllipse
 
 **Currently Learning:** Machine Learning, Data Structures and Algorithms, Web Development
 
