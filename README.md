@@ -17,7 +17,7 @@ Currently, I'm focused on strengthening my programming fundamentals, understandi
 
 **Languages:** Python, Java, C
 
-**Tools:** Git, GitHub, VS Code, Jupyter Notebook,pycharm,ecllipse
+**Tools:** Git, GitHub, VS Code, Jupyter Notebook,Pycharm,Ecllipse
 
 **Currently Learning:** Machine Learning, Data Structures and Algorithms, Web Development
 
